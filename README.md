@@ -1,5 +1,5 @@
 # text-adventure
-A text adventure written in C++ and licensed under GPL.
+A text adventure written in C++ and licensed under GPL v3.0.
 
 To run:
 
